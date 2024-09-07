@@ -1,0 +1,11 @@
+{
+    "RPC_ARBT": "https://arbitrum-sepolia.blockpi.network/v1/rpc/public",
+    "RPC_OP": "https://sepolia.optimism.io/rpc",
+    "RPC_BASE": "https://sepolia.base.org/rpc",
+    "RPC_BLAST": "https://sepolia.blast.io/rpc",
+    "CA_ARBT": "0x8D86c3573928CE125f9b2df59918c383aa2B514D",
+    "CA_OP": "0xF221750e52aA080835d2957F2Eed0d5d7dDD8C38",
+    "CA_BASE": "0x30A0155082629940d4bd9Cd41D6EF90876a0F1b5",
+    "CA_BLAST": "0x1D5FD4ed9bDdCCF5A74718B556E9d15743cB26A2"
+  }
+  
