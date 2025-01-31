@@ -4,7 +4,7 @@ const { Wallet, JsonRpcProvider, ethers } = require('ethers');
 const readlineSync = require('readline-sync');
 const moment = require('moment');
 const { displayHeader, getEstimate, transactionData, delay, getAmount, getGasPrice } = require('./src/display');
-const { PRIVATE_KEYS, CONTRACTS } = require('./config/config');
+const { PRIVATE_KEYS, CONTRACTS } = require('./config/privatekey.js');
 
 (async () => {
   try {
